@@ -9,6 +9,7 @@ This repository holds java core knowledge and some challenges (and its resolutio
 - [Java](java.md)
 - [Object Oriented Programming](oop.md)
 - [Resiliency](resiliency.md)
+- [SOLID](solid.md)
 - [Spring](spring.md)
 
 
