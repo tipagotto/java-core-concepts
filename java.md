@@ -3,7 +3,7 @@
 A general-purpose, concurrent, strongly typed, class-based, object-oriented programming language. Java applications are compiled into bytecode that runs on Java Virtual Machines (JVM).
 
 
-## Primitives
+## Primitive data types
 
 All variables must first be declared before they can be used:
 - byte: 8-bit signed two's complement integer.
