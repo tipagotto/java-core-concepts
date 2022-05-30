@@ -4,11 +4,13 @@ This repository holds java core knowledge and some challenges (and its resolutio
 
 ## Core Concepts
 
+- [Concurrency]()
+- [Resiliency]()
 - [Java]()
 - [Spring]()
 
 ## Challenges
 
--
+- []()
 
 Take a look at some software design patterns samples [here](https://github.com/tipagotto/software-design-patterns).
