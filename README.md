@@ -15,7 +15,7 @@ This repository holds java core knowledge and some challenges (and its resolutio
 
 ## Challenges
 
-- []()
+- [Integer Linked List implementation with insertion and printing methods](challenges/LinkedList.java)
 
 
 ## Extras
