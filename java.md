@@ -58,7 +58,7 @@ The heap is separated in three parts:
 All minor and major garbage collections are considered **"Stop the World"** events. This means that all threads are stopped until the operation completes.
 
 
-### References
+#### References
 
 - [What is Java? Definition, Meaning & Features of Java Platforms](https://www.guru99.com/java-platform.html)
 - [Primitive Data Types](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
