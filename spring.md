@@ -93,3 +93,4 @@ Spring provides the `@Transactional` annotation at class or method levels. This 
 - [Spring Core Annotations](https://www.baeldung.com/spring-core-annotations)
 - [Spring Bean Annotations](https://www.baeldung.com/spring-bean-annotations)
 - [Spring - Transaction Management](https://www.tutorialspoint.com/spring/spring_transaction_management.htm)
+- [Transactions with Spring and JPA](https://www.baeldung.com/transaction-configuration-with-jpa-and-spring)
