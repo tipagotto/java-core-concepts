@@ -7,8 +7,8 @@ This repository holds java core knowledge and some challenges (and its resolutio
 
 - [Concurrency](concurrency.md)
 - [Java](java.md)
+- [Microservices](microservices.md)
 - [Object Oriented Programming](oop.md)
-- [Resiliency](resiliency.md)
 - [SOLID](solid.md)
 - [Spring](spring.md)
 
