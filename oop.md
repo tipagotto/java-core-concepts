@@ -1,6 +1,6 @@
 # Object Oriented Programming
 
-**Object-oriented programming (OOP) is themost popular programming paradigm that relies on the concept of classes and objects.** It is used to structure a software program into simple, reusable pieces of code blueprints (classes), which are used to create instances of objects.
+**Object-oriented programming (OOP) is the most popular programming paradigm that relies on the concept of classes and objects.** It is used to structure a software program into simple, reusable pieces of code blueprints (classes), which are used to create instances of objects.
 
 A class is an abstract blueprint used to create more specific, concrete objects. Classes can also contain functions, called methods available only to objects of that type. These functions are defined within the class and perform some action helpful to that specific type of object.
 
