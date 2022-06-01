@@ -85,6 +85,11 @@ Spring provides the `@Transactional` annotation at class or method levels. This 
 - transaction Rollback rules
 
 
+## Extras
+
+It is possible to find really good and simple explanation and code samples on [Baeldung](https://www.baeldung.com/).
+
+
 #### References
 
 - [Core Concepts Of The Spring Framework](https://www.dariawan.com/tutorials/spring/core-concepts-of-the-spring-framework/)
